@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+problem_classification_ela_results_same_features
+problem_classification_ela_results_different_features
+problem_classification_results
+problem_classification_visualizations
+problem_ela_classification_different_features_visualizations
+problem_ela_classification_same_features_visualizations
